@@ -1,0 +1,63 @@
+2017-02-14 14:43:10,011 INFO  [Log] **************************************************************************************** 
+2017-02-14 14:43:10,011 INFO  [Log] **************************************************************************************** 
+2017-02-14 14:43:10,011 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 SC_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 14:43:10,011 INFO  [Log] **************************************************************************************** 
+2017-02-14 14:43:10,011 INFO  [Log] **************************************************************************************** 
+2017-02-14 14:43:10,011 INFO  [Log] Opening Browser 
+2017-02-14 14:43:36,560 INFO  [Log] Mozilla browser started 
+2017-02-14 14:43:37,620 INFO  [Log] Navigating to URL 
+2017-02-14 14:43:42,815 INFO  [Log] Entering the text in txtbx_UserName 
+2017-02-14 14:43:43,171 INFO  [Log] Entering the text in txtbx_Password 
+2017-02-14 14:43:43,326 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-02-14 14:43:46,095 INFO  [Log] Wait for 5 seconds 
+2017-02-14 14:43:51,157 INFO  [Log] Buyername found in verify methods 
+2017-02-14 14:43:51,253 INFO  [Log] Clicking on Webelement lnk_CreateQuote 
+2017-02-14 14:43:53,373 INFO  [Log] Entering the text in txtbx_BuyerName 
+2017-02-14 14:43:53,505 INFO  [Log] Selecting value from list box lbx_Rgion 
+2017-02-14 14:43:53,790 INFO  [Log] Clicking on Webelement btn_Search 
+2017-02-14 14:43:55,874 INFO  [Log] Clicking on Webelement lnk_BuyerLink 
+2017-02-14 14:43:57,952 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-02-14 14:43:57,952 INFO  [Log] Opening Browser 
+2017-02-14 14:44:06,078 INFO  [Log] Mozilla browser started 
+2017-02-14 14:44:06,156 INFO  [Log] Navigating to URL 
+2017-02-14 14:44:14,421 INFO  [Log] Entering the text in txtbx_UserName 
+2017-02-14 14:44:14,589 INFO  [Log] Entering the text in txtbx_Password 
+2017-02-14 14:44:14,871 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-02-14 14:44:17,723 INFO  [Log] Wait for 5 seconds 
+2017-02-14 14:44:22,765 INFO  [Log] Clicking on Webelement lnk_CreateQuote 
+2017-02-14 14:44:24,849 INFO  [Log] Entering the text in txtbx_BuyerName 
+2017-02-14 14:44:24,934 INFO  [Log] Selecting value from list box lbx_Rgion 
+2017-02-14 14:44:25,050 INFO  [Log] Clicking on Webelement btn_Search 
+2017-02-14 14:44:27,150 INFO  [Log] Clicking on Webelement lnk_BuyerLink 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowContains | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowContains | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowContains | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowContains | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowContains | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowContains | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowContains | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowContains | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-14 14:44:29,238 ERROR [Log] Class Utils | Method getRowContains | Exception desc : null 
+2017-02-14 14:44:29,269 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-14 14:44:29,269 INFO  [Log] X 
+2017-02-14 14:44:29,269 INFO  [Log] X 
+2017-02-14 14:44:29,269 INFO  [Log] X 
+2017-02-14 14:44:29,269 INFO  [Log] X 

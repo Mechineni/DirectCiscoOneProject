@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/client-combined-3.0.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Other Jars/poi-3.16-beta1/poi-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Other Jars/poi-3.16-beta1/poi-examples-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Other Jars/poi-3.16-beta1/poi-excelant-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Other Jars/poi-3.16-beta1/poi-ooxml-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Other Jars/poi-3.16-beta1/poi-ooxml-schemas-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Other Jars/poi-3.16-beta1/poi-scratchpad-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Other Jars/poi-3.16-beta1/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Other Jars/poi-3.16-beta1/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Other Jars/poi-3.16-beta1/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Other Jars/poi-3.16-beta1/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Other Jars/poi-3.16-beta1/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Other Jars/poi-3.16-beta1/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Other Jars/poi-3.16-beta1/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/lib/ant-javafx.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/lib/dt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/lib/javafx-mx.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/lib/jconsole.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/lib/packager.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/lib/sa-jdi.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/lib/tools.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/jre/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/jre/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/jre/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/jre/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/jre/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/jre/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/jre/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/jre/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/jre/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/jre/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/jre/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derby.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyLocale_cs.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyLocale_de_DE.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyLocale_es.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyLocale_fr.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyLocale_hu.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyLocale_it.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyLocale_ja_JP.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyLocale_ko_KR.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyLocale_pl.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyLocale_pt_BR.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyLocale_ru.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyLocale_zh_CN.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyLocale_zh_TW.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbynet.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyoptionaltools.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbyrun.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_112/db/lib/derbytools.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium WorkSpace/Selenium Jar/lib/client-combined-3.0.1-nodeps.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

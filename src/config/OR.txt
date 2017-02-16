@@ -1,0 +1,12 @@
+
+# Home Page Objects
+lnk_CreateQuote=.//*[@id='NavLinks']/a[1]
+txtbx_BuyerName=.//input[@name='OrgName']
+lbx_Rgion=//select[@name='RegionID']
+btn_Search=//input[@type='SUBMIT']
+lnk_BuyerLink=//a[contains(text(),'mamata')]
+
+# Login Page Object
+txtbx_UserName=.//input[@name='UserName']
+txtbx_Password=.//*[@name='Password']
+btn_LogIn=.//input[@value='Login']
